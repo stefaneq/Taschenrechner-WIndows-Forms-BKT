@@ -1,0 +1,17 @@
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.csproj.GenerateResource.cache
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\bin\Debug\net6.0-windows\taschenrechner stefan2.exe
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\bin\Debug\net6.0-windows\taschenrechner stefan2.deps.json
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\bin\Debug\net6.0-windows\taschenrechner stefan2.runtimeconfig.json
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\bin\Debug\net6.0-windows\taschenrechner stefan2.dll
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\bin\Debug\net6.0-windows\taschenrechner stefan2.pdb
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner_stefan2.Taschenrechner.resources
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.dll
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\refint\taschenrechner stefan2.dll
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.pdb
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\taschenrechner stefan2.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\taschenrechner stefan\taschenrechner stefan2\taschenrechner stefan2\obj\Debug\net6.0-windows\ref\taschenrechner stefan2.dll
